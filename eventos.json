@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "eventos": [
+    {
+      "id": "bienvenida2026",
+      "nombre": "Fiesta de bienvenida ILUBLU ALIVE",
+      "desde": "2026-10-16",
+      "hasta": "2026-10-31",
+      "tema": "fiesta",
+      "objeto": "gorro_fiesta",
+      "mensaje": "¡Fiesta de bienvenida!"
+    },
+    {
+      "id": "halloween2026",
+      "nombre": "Fiesta de Halloween",
+      "desde": "2026-10-25",
+      "hasta": "2026-11-02",
+      "tema": "halloween",
+      "objeto": "farolillo",
+      "mensaje": "¡Fiesta de Halloween!"
+    },
+    {
+      "id": "navidad2026",
+      "nombre": "Navidad en el barrio",
+      "desde": "2026-12-01",
+      "hasta": "2027-01-06",
+      "tema": "navidad",
+      "objeto": "bola_nieve",
+      "mensaje": "¡Feliz Navidad!"
+    }
+  ]
+}
